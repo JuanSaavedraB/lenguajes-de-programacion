@@ -1,0 +1,6 @@
+id,cliente,correo,placa,marca,antiguedad,coberturaRobos,coberturaAsistencia,coberturaDesastres
+1,Ana Perez,ana@correo.com,ABC-111,Toyota,2,true,true,false
+2,Luis Torres,luis@correo.com,XYZ-222,Audi,7,true,false,true
+3,Carmen Diaz,carmen@correo.com,LMN-333,Nissan,11,false,true,false
+4,Jose Ramos,jose@correo.com,XAA-444,BMW,4,true,true,true
+

@@ -1,0 +1,5 @@
+numeroPoliza,idSolicitud,cliente,monto,descripcion,estadoAprobacion,puntajeRiesgo,fechaEmision
+
+POL-AF85AD58,1,Ana Perez,800.00,Seguro basico vehicular; cobertura contra robos; asistencia vial,AUTOMATICO,20,2026-04-16
+POL-46B12341,4,Jose Ramos,1120.00,Seguro basico vehicular; cobertura contra robos; asistencia vial; cobertura contra desastres naturales,GERENTE,80,2026-04-16
+POL-B0F56C5F,3,Carmen Diaz,800.00,Seguro basico vehicular; asistencia vial,SUPERVISOR,55,2026-04-16
